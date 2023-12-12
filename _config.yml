@@ -17,7 +17,7 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: SMASMC Blog # the main title
 
 tagline: A text-focused Jekyll theme # it will display as the sub-title
 
@@ -73,11 +73,11 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: "https://chirpy-img.netlify.app"
-
+img_cdn: "" # image url path 지정
+# img_cdn: "https://chirpy-img.netlify.app"
 # the avatar on sidebar, support local or CORS resources
-avatar: "assets/img/profile_img/seolsong_profile_img.jpg"
-# avatar: "/commons/avatar.jpg"
+avatar: "https://raw.githubusercontent.com/SMASMC/SMASMC.github.io/main/assets/img/favicons/profile_img/seolsong_profile_img.jpg"
+# image url path 지정
 
 # boolean type, the global switch for TOC in posts.
 toc: true
