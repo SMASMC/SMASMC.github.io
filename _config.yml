@@ -76,7 +76,7 @@ theme_mode: # [light|dark]
 img_cdn: "" # image url path 지정
 # img_cdn: "https://chirpy-img.netlify.app"
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://raw.githubusercontent.com/SMASMC/SMASMC.github.io/main/assets/img/favicons/profile_img/seolsong_profile_img.jpg"
+avatar: "https://raw.githubusercontent.com/SMASMC/SMASMC.github.io/main/assets/img/profile_img/seolsong_profile_img.jpg"
 # image url path 지정
 
 # boolean type, the global switch for TOC in posts.
